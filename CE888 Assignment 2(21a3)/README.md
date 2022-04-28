@@ -1,2 +1,4 @@
 # CE888-DataScience-and-Decision-making
-# 2021-2022
+# Assignment 2 
+# 21a2
+# The functions used are available in functions.py
